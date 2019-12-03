@@ -9,3 +9,5 @@ Tutoriel aussi disponible en format PDF : https://github.com/GreatTommy/tutoBoot
 Pour complémenter ce cours (en anglais) : https://www.w3schools.com/bootstrap4/
 
 En particulier : https://www.w3schools.com/bootstrap4/bootstrap_utilities.asp
+
+TP1 grille et utilitaires : https://docs.google.com/document/d/1_ql27MYVjFYVmmZW5LmXH23DVEO735T3zCXz5PXp8tk/edit
